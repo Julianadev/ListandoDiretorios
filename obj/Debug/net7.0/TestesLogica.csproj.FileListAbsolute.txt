@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\TestesLogica\bin\Debug\net7.0\TestesLogica.exe
+C:\Users\jully\OneDrive\Documentos\TestesLogica\bin\Debug\net7.0\TestesLogica.deps.json
+C:\Users\jully\OneDrive\Documentos\TestesLogica\bin\Debug\net7.0\TestesLogica.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\TestesLogica\bin\Debug\net7.0\TestesLogica.dll
+C:\Users\jully\OneDrive\Documentos\TestesLogica\bin\Debug\net7.0\TestesLogica.pdb
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.dll
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\refint\TestesLogica.dll
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.pdb
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\TestesLogica.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\TestesLogica\obj\Debug\net7.0\ref\TestesLogica.dll
